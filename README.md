@@ -7,7 +7,7 @@ A clone for the official website of AirBnB
 ---
 # Purpose of the project
 
-A ReactJS exercise to create a clone for Airbnb
+A ReactJS exercise to clone a website
 ---
 
 
